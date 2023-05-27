@@ -12,3 +12,7 @@ I was able to accomplish this by:
 -Changing the font size
 
 I learned what cleaned up code looks like and it is always best to leave the code cleaner than how you found it because someone else will probably need to look at it down the line. 
+
+The original starter code came from the repository that can be found here:
+https://github.com/coding-boot-camp/urban-octo-telegram
+
